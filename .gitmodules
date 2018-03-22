@@ -1,3 +1,6 @@
 [submodule "rfc8255-reflector"]
 	path = rfc8255-reflector
 	url = https://github.com/igit/rfc8255-reflector
+[submodule "test2"]
+	path = test2
+	url = https://github.com/igit/test2
